@@ -1,0 +1,2 @@
+# ProjetoFinalECOP14
+Arquivos do projeto final da matéria de Laboratório de Programação Embarcada (ECOP14) e Programação Embarcada (ECOP04), oferecidas pela Universidade Federal de Itajubá (UNIFEI), pelos professores Otávio de Souza Martins Gomes e Rodrigo Maximiano Antunes de Almeida. O projeto consiste em simular um rádio de carro, em que são utilizadas o display LCD, os displays de 7 segmentos, o LED RGB e as teclas. Para mais informações acesse: https://youtu.be/mX-ZXzKwT54
